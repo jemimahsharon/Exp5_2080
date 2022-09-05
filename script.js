@@ -86,7 +86,7 @@ function flip() {
     } else {
         tail.innerHTML = t+1;
     };
-    img.src = "media/"+l[s];
+    img.src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fhattonsoflondon.co.uk%2Fwp-content%2Fuploads%2F2020%2F05%2Fsteve-smith-Zvvu4zRKijE-unsplash.jpg&imgrefurl=https%3A%2F%2Fhattonsoflondon.co.uk%2Fthe-history-of-the-coin-flip-heads-or-tails%2F&tbnid=pnpP26PKcpU5_M&vet=12ahUKEwicj5GBi_35AhWoMLcAHUnPAgEQMygVegUIARCOAg..i&docid=xzjuAYvX_H5fkM&w=6748&h=4499&q=head%20or%20tail&safe=active&ved=2ahUKEwicj5GBi_35AhWoMLcAHUnPAgEQMygVegUIARCOAg"+l[s];
 }
 
 function bill() {
